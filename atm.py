@@ -1,6 +1,6 @@
 balance = 1000
 Button = 0
-while int(Button) != 4:
+while Button != 4:
     print ('1. check balance',
             '2. Deposit',
             '3. Withdraw',
